@@ -1,0 +1,7 @@
+C:\Users\TheArzy\Desktop\Proects VS\ZZZаданияZZZ\1_5_5_Ackermann_function\1_5_5_Ackermann_function\bin\Debug\1_5_5_Ackermann_function.exe.config
+C:\Users\TheArzy\Desktop\Proects VS\ZZZаданияZZZ\1_5_5_Ackermann_function\1_5_5_Ackermann_function\bin\Debug\1_5_5_Ackermann_function.exe
+C:\Users\TheArzy\Desktop\Proects VS\ZZZаданияZZZ\1_5_5_Ackermann_function\1_5_5_Ackermann_function\bin\Debug\1_5_5_Ackermann_function.pdb
+C:\Users\TheArzy\Desktop\Proects VS\ZZZаданияZZZ\1_5_5_Ackermann_function\1_5_5_Ackermann_function\obj\Debug\1_5_5_Ackermann_function.csprojAssemblyReference.cache
+C:\Users\TheArzy\Desktop\Proects VS\ZZZаданияZZZ\1_5_5_Ackermann_function\1_5_5_Ackermann_function\obj\Debug\1_5_5_Ackermann_function.csproj.CoreCompileInputs.cache
+C:\Users\TheArzy\Desktop\Proects VS\ZZZаданияZZZ\1_5_5_Ackermann_function\1_5_5_Ackermann_function\obj\Debug\1_5_5_Ackermann_function.exe
+C:\Users\TheArzy\Desktop\Proects VS\ZZZаданияZZZ\1_5_5_Ackermann_function\1_5_5_Ackermann_function\obj\Debug\1_5_5_Ackermann_function.pdb
